@@ -26,11 +26,11 @@ st.set_page_config(
     layout = 'wide'
 )
 # set paths
-basedir = '/Users/songy4/Documents'
-datadir = f'{basedir}/Result'
-twasdir = f'{datadir}/T-WAS'
-pwasdir = f'{datadir}/P-WAS'
-tewasdir = f'{datadir}/TE-WAS'
+#basedir = '/Users/songy4/Documents'
+#datadir = f'{basedir}/Result'
+twasdir = f'T-WAS'
+pwasdir = f'P-WAS'
+tewasdir = f'TE-WAS'
 
 #read omics data files
 #chromosome list
