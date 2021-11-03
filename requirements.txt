@@ -8,7 +8,6 @@ matplotlib.pyplot
 plotly.express
 plotly.io
 plotly.graph_objects 
-from PIL import Image
 datetime
 math
 scipy 
