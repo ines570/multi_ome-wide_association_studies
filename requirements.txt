@@ -1,7 +1,8 @@
 streamlit
 numpy
 pandas
-matplotlib.pyplot 
+matplotlib
+plotly
 plotly.express
 plotly.io
 plotly.graph_objects 
