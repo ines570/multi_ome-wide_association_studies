@@ -3,14 +3,10 @@ numpy
 pandas
 matplotlib
 plotly
-plotly.express
-plotly.io
-plotly.graph_objects 
 datetime
 math
 scipy 
-statsmodels.formula.api 
-statsmodels.api 
+statsmodels
 statistics
 glob
 
