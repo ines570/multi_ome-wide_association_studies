@@ -174,7 +174,7 @@ with head_4:
     def modification_date(filename):
         t = os.path.getmtime(filename)
         return datetime.datetime.fromtimestamp(t)
-    date = modification_date("/Users/songy4/Documents/Result/ternary_plot.csv") 
+    date = modification_date("ternary_plot.csv") 
     st.markdown("**RESULT DATE**")  
     st.markdown(date)
 
