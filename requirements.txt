@@ -9,4 +9,6 @@ scipy
 statsmodels
 statistics
 glob2
-
+sklearn
+path.py
+Pillow==2.2.2
