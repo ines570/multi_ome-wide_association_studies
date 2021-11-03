@@ -8,5 +8,5 @@ python-math
 scipy 
 statsmodels
 statistics
-glob
+glob2
 
