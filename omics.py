@@ -4,17 +4,13 @@ import sys
 import subprocess
 import numpy as np
 import pandas as pd
-import pandas.testing as tm
-import h5py
 import streamlit as st
 import matplotlib.pyplot as plt
 from matplotlib import style
-from matplotlib import cm
 import plotly.express as px
 import plotly.io as pio
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
-import seaborn as sns
 from PIL import Image
 import datetime
 import math
@@ -22,12 +18,6 @@ from scipy import stats
 import statsmodels.formula.api as smf
 import statsmodels.api as sm
 import statistics
-import umap.umap_ as umap
-#import umap as umap
-from joblib import dump, load
-from sklearn.decomposition import PCA
-from functools import reduce
-import dash_bio as dashbio
 import glob
 from os.path import splitext, basename
 
