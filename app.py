@@ -429,8 +429,7 @@ def main():
                 ###might be cool to have small manhattan plots per gene, showing eqtl locations with pvals on the multiomics app
 
               
-            
-             else:
+            else:
                 st.warning("Incorrect Username/Password")
             
     elif choice == "SignUp":
