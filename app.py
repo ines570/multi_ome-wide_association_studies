@@ -204,13 +204,12 @@ def view_all_users():
 
 def main():
     """"Simple Login App"""
-    st.title("Simple Login App")
     
     menu = ["Home", "Login", "SignUp"]
     choice = st.sidebar.selectbox("Menu", menu)
     
     if choice == "Home":
-        st.subheader("Home")
+        st.subheader("Please Login First Before Use the App")
         
     elif choice == "Login":
         st.subheader("Login Section")
