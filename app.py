@@ -26,11 +26,9 @@ st.set_page_config(
     layout = 'wide'
 )
 # set paths
-basedir = '/Users/songy4/Documents'
-datadir = f'{basedir}/Result'
-twasdir = f'{datadir}/T-WAS'
-pwasdir = f'{datadir}/P-WAS'
-tewasdir = f'{datadir}/TE-WAS'
+twasdir = 'T-WAS'
+pwasdir = 'P-WAS'
+tewasdir = 'TE-WAS'
 
 #read omics data files
 #chromosome list
@@ -145,7 +143,7 @@ pwas_plasma_onc_control = {splitext(basename(file))[0].split('.')[-1] : pd.read_
 df_1 = pd.DataFrame(columns = ['ID', 'CHR', 'EQTL.ID', 'EQTL.Z', 'TWAS.Z', 'TWAS.P'])
 
 #data for ternary plot
-df = pd.read_csv(f'{datadir}/ternary_plot.csv')
+df = pd.read_csv('ternary_plot.csv')
 
 ##Background color
 def local_css(file_name):
