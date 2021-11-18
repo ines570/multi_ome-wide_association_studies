@@ -143,7 +143,7 @@ pwas_plasma_onc_control = {splitext(basename(file))[0].split('.')[-1] : pd.read_
 df_1 = pd.DataFrame(columns = ['ID', 'CHR', 'EQTL.ID', 'EQTL.Z', 'TWAS.Z', 'TWAS.P'])
 
 #data for ternary plot
-df = pd.read_csv('ternary_plot.csv')
+df = pd.read_csv('ternary_plot_case_control.csv')
 
 ##Background color
 def local_css(file_name):
@@ -414,8 +414,8 @@ def main():
 
                 # The plot!
 
-                ternary_fig = px.scatter_ternary(df, a="T-WAS", b="P-WAS", c="TE-WAS", hover_name="Gene Symbol | Ensemble", 
-                                                 color="Mean Z", color_continuous_scale=px.colors.sequential.Agsunset, opacity=0.5 )
+                ternary_fig = px.scatter_ternary(df, a="T-WAS.Z", b="P-WAS.Z", c="TE-WAS.Z", hover_name="Gene Symbol | Ensemble",
+                                                 color="Pheno", opacity=0.7)
                 ternary_fig.update_traces(mode='markers', marker_line_width=2, marker_size=10)
                 ternary_fig.update_layout(width=1400, height=800)
                 #ternary_fig.update_layout(title='Ternary plot of potential multi-omic connections')
