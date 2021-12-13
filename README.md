@@ -3,4 +3,5 @@ This pipeline was built to provide a python way to incorporate the multi ome-wid
 
 The workflow and data summary can be seen in below diagram.
 
-![TWAS_process_preprocess](https://user-images.githubusercontent.com/38105029/145844359-1c62c5c6-94e6-453c-9031-efb8bf850e98.jpeg)
+
+![TWAS_process arrow_workflow](https://user-images.githubusercontent.com/38105029/145844473-53586bc0-a36d-403d-8eba-265a0a63e438.png)
