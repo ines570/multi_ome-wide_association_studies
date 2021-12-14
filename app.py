@@ -415,11 +415,11 @@ def main():
                 # The plot!
 
                 ternary_fig = px.scatter_ternary(df, a="T-WAS.Z", b="P-WAS.Z", c="TE-WAS.Z", hover_name="Gene Symbol | Ensemble",
-                                                 color="Pheno", opacity=0.7)
-                ternary_fig.update_traces(mode='markers', marker_line_width=2, marker_size=10)
-                ternary_fig.update_layout(width=1400, height=800)
+                                                 color="Pheno", opacity=0.6, hover_data=["Mean Z"])
+                ternary_fig.update_traces(mode='markers', marker_line_width=2, marker_size=df['Mean Z']*5)
+                ternary_fig.update_layout(width=1400, height=800, legend=dict(yanchor="top", y=0.99, xanchor="left", x=0.01,font=dict(size=16),
+                                                                              bordercolor="Black",borderwidth=2),legend_title = dict(font = dict(size = 18)))
                 #ternary_fig.update_layout(title='Ternary plot of potential multi-omic connections')
-
                 st.markdown("**Ternary plot of potential multi-omic connections**")
                 st.write(ternary_fig)
 
