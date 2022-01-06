@@ -1,0 +1,8 @@
+PANEL	FILE	ID	CHR	P0	P1	HSQ	BEST.GWAS.ID	BEST.GWAS.Z	EQTL.ID	EQTL.R2	EQTL.Z	EQTL.GWAS.Z	NSNP	NWGT	MODEL	MODELCV.R2	MODELCV.PV	TWAS.Z	TWAS.P
+NA	/data/songy4/proteomics_196/output/weights_csf_cardio_case//FUCA1.wgt.RDat	FUCA1	1	24171567	24194784	0.438	rs4649163	 -2.41	rs10917423	 0.0649	-4.48	 1.023	391	24	enet	0.14	0.00016	-0.717854	4.73e-01
+NA	/data/songy4/proteomics_196/output/weights_csf_cardio_case//IL6R.wgt.RDat	IL6R	1	154377669	154441926	0.561	rs2274993	  4.05	rs4129267	 0.3935	 6.14	-1.116	425	 1	top1	0.39	1.7e-11	-1.115789	2.65e-01
+NA	/data/songy4/proteomics_196/output/weights_csf_cardio_case//FCGR2A.wgt.RDat	FCGR2A	1	161475220	161493803	0.759	rs1801274	 -6.79	rs12722986	 0.1395	-6.21	-4.951	442	15	lasso	0.26	1.6e-07	 4.676231	2.92e-06
+NA	/data/songy4/proteomics_196/output/weights_csf_cardio_case//SELP.wgt.RDat	SELP	1	169558087	169599431	0.389	rs6696217	 -2.60	rs6128	-0.0014	-3.66	 1.198	570	 9	enet	0.032	0.05	-1.733326	8.30e-02
+NA	/data/songy4/proteomics_196/output/weights_csf_cardio_case//CHI3L1.wgt.RDat	CHI3L1	1	203148059	203155877	0.438	rs2821225	  2.72	rs10399805	 0.0707	 3.71	-0.362	505	10	lasso	0.11	0.00089	-0.000416	1.00e+00
+NA	/data/songy4/proteomics_196/output/weights_csf_cardio_case//PM20D1.wgt.RDat	PM20D1	1	205797150	205819260	0.587	rs823114	-11.31	rs12565968	 0.1471	 4.05	-7.559	386	15	lasso	0.19	1.2e-05	-8.463696	2.59e-17
+NA	/data/songy4/proteomics_196/output/weights_csf_cardio_case//CD46.wgt.RDat	CD46	1	207925402	207968858	0.367	rs2745981	 -2.79	rs733177	 0.0574	 4.58	 2.059	507	27	enet	0.1	0.0011	 2.168335	3.01e-02
