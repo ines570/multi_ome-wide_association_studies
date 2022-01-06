@@ -1,0 +1,6 @@
+PANEL	FILE	ID	CHR	P0	P1	HSQ	BEST.GWAS.ID	BEST.GWAS.Z	EQTL.ID	EQTL.R2	EQTL.Z	EQTL.GWAS.Z	NSNP	NWGT	MODEL	MODELCV.R2	MODELCV.PV	TWAS.Z	TWAS.P
+NA	/data/songy4/proteomics_196/output/weights_plasma_onc_control//TACSTD2.wgt.RDat	TACSTD2	1	59041099	59043166	0.492	rs7543260	-3.18	rs232840	0.1396	-4.32	-0.176	536	29	enet	0.25	4.5e-06	 0.636	0.52482
+NA	/data/songy4/proteomics_196/output/weights_plasma_onc_control//F3.wgt.RDat	F3	1	94994781	95007356	0.376	rs17406291	-3.29	rs12125133	0.0219	-3.86	 1.694	550	23	enet	0.077	0.011	-0.976	0.32897
+NA	/data/songy4/proteomics_196/output/weights_plasma_onc_control//PSRC1.wgt.RDat	PSRC1	1	109822178	109825808	0.599	rs1277224	-2.94	rs12066164	0.0158	-3.02	-1.688	443	 1	top1	0.016	0.15	 1.688	0.09140
+NA	/data/songy4/proteomics_196/output/weights_plasma_onc_control//HDGF.wgt.RDat	HDGF	1	156711899	156736717	0.551	rs10796974	 3.48	rs12145743	0.4615	 5.71	 1.404	458	 7	lasso	0.52	8.5e-13	 1.832	0.06691
+NA	/data/songy4/proteomics_196/output/weights_plasma_onc_control//CNTN2.wgt.RDat	CNTN2	1	205012325	205047627	0.494	rs17728	 4.31	rs7533611	0.0445	 4.67	 1.054	617	33	enet	0.12	0.0017	 2.637	0.00837
