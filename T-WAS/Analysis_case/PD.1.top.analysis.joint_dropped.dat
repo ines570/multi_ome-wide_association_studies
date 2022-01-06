@@ -1,0 +1,5 @@
+FILE	ID	TWAS.Z	TWAS.P	COND.BETA	COND.BETA.SE	COND.Z	COND.P
+/data/songy4/twas/output/weights//ENSG00000117616.wgt.RDat	ENSG00000117616	-4.8	1.3e-06	-0.057	0.31	-0.18	0.854
+/data/songy4/twas/output/weights//ENSG00000183726.wgt.RDat	ENSG00000183726	-4.8	2.0e-06	 0.161	0.20	 0.79	0.430
+/data/songy4/twas/output/weights//ENSG00000162616.wgt.RDat	ENSG00000162616	 4.1	3.8e-05	 1.890	0.86	 2.21	0.027
+/data/songy4/twas/output/weights//ENSG00000117505.wgt.RDat	ENSG00000117505	 4.3	2.1e-05	 0.186	0.44	 0.42	0.673

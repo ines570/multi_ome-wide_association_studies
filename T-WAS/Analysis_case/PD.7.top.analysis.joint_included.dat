@@ -1,0 +1,4 @@
+FILE	ID	TWAS.Z	TWAS.P	JOINT.BETA	JOINT.BETA.SE	JOINT.Z	JOINT.P
+/data/songy4/twas/output/weights//ENSG00000136235.wgt.RDat	ENSG00000136235	10.4	3.4e-25	10.4	1	10.4	3.4e-25
+/data/songy4/twas/output/weights//ENSG00000105854.wgt.RDat	ENSG00000105854	 4.2	2.4e-05	 4.2	1	 4.2	2.4e-05
+/data/songy4/twas/output/weights//ENSG00000146834.wgt.RDat	ENSG00000146834	 4.3	1.4e-05	 4.3	1	 4.3	1.4e-05
