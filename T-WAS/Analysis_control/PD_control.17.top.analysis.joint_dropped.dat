@@ -1,0 +1,13 @@
+FILE	ID	TWAS.Z	TWAS.P	COND.BETA	COND.BETA.SE	COND.Z	COND.P
+/data/songy4/twas/output/weights_control//ENSG00000239697.wgt.RDat	ENSG00000239697	 -4.3	1.5e-05	-2.409	0.93	-2.578	9.9e-03
+/data/songy4/twas/output/weights_control//ENSG00000214941.wgt.RDat	ENSG00000214941	  4.7	2.1e-06	-0.164	0.14	-1.199	2.3e-01
+/data/songy4/twas/output/weights_control//ENSG00000011295.wgt.RDat	ENSG00000011295	 -4.5	6.6e-06	 0.325	0.23	 1.438	1.5e-01
+/data/songy4/twas/output/weights_control//ENSG00000141027.wgt.RDat	ENSG00000141027	  3.9	1.1e-04	-0.437	0.49	-0.884	3.8e-01
+/data/songy4/twas/output/weights_control//ENSG00000166582.wgt.RDat	ENSG00000166582	  4.9	1.1e-06	 0.648	0.52	 1.244	2.1e-01
+/data/songy4/twas/output/weights_control//ENSG00000171962.wgt.RDat	ENSG00000171962	 -3.9	1.1e-04	-1.678	0.86	-1.954	5.1e-02
+/data/songy4/twas/output/weights_control//ENSG00000167543.wgt.RDat	ENSG00000167543	 -3.9	9.1e-05	-2.348	0.92	-2.562	1.0e-02
+/data/songy4/twas/output/weights_control//ENSG00000141699.wgt.RDat	ENSG00000141699	  5.4	7.7e-08	 9.497	0.73	13.033	7.9e-39
+/data/songy4/twas/output/weights_control//ENSG00000228696.wgt.RDat	ENSG00000228696	  4.7	2.5e-06	-1.055	0.95	-1.111	2.7e-01
+/data/songy4/twas/output/weights_control//ENSG00000238083.wgt.RDat	ENSG00000238083	-13.8	2.9e-43	-1.287	0.73	-1.759	7.9e-02
+/data/songy4/twas/output/weights_control//ENSG00000185829.wgt.RDat	ENSG00000185829	  5.1	2.9e-07	 0.089	0.96	 0.092	9.3e-01
+/data/songy4/twas/output/weights_control//ENSG00000073969.wgt.RDat	ENSG00000073969	 -7.5	8.6e-14	-2.682	0.97	-2.778	5.5e-03
