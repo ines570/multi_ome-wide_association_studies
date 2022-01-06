@@ -1,0 +1,7 @@
+PANEL	FILE	ID	CHR	P0	P1	HSQ	BEST.GWAS.ID	BEST.GWAS.Z	EQTL.ID	EQTL.R2	EQTL.Z	EQTL.GWAS.Z	NSNP	NWGT	MODEL	MODELCV.R2	MODELCV.PV	TWAS.Z	TWAS.P
+NA	/data/songy4/proteomics_196/output/weights_plasma_cardio_case//FUCA1.wgt.RDat	FUCA1	1	24171567	24194784	0.241	rs4649163	-2.41	rs3123554	 0.0820	-3.78	 1.535	391	 1	top1	0.082	0.0031	-1.5354	1.25e-01
+NA	/data/songy4/proteomics_196/output/weights_plasma_cardio_case//ROR1.wgt.RDat	ROR1	1	64239693	64647181	0.379	rs6676050	 3.19	rs1260836	-0.0102	-3.28	 0.567	646	23	enet	-0.0094	0.71	-0.7557	4.50e-01
+NA	/data/songy4/proteomics_196/output/weights_plasma_cardio_case//AMY2A.wgt.RDat	AMY2A	1	104159999	104168402	0.583	rs12741722	 2.13	rs28558115	 0.0279	 3.03	 1.114	156	33	enet	0.12	0.00035	-0.0417	9.67e-01
+NA	/data/songy4/proteomics_196/output/weights_plasma_cardio_case//IL6R.wgt.RDat	IL6R	1	154377669	154441926	0.558	rs2274993	 4.05	rs7518199	 0.3964	 6.36	-1.284	425	 8	lasso	0.4	4.6e-12	-1.0806	2.80e-01
+NA	/data/songy4/proteomics_196/output/weights_plasma_cardio_case//ADAM15.wgt.RDat	ADAM15	1	155023042	155035252	0.265	rs12726330	15.55	rs6427128	 0.0144	 3.75	 1.489	379	24	enet	0.08	0.0035	 4.5817	4.61e-06
+NA	/data/songy4/proteomics_196/output/weights_plasma_cardio_case//FCGR2A.wgt.RDat	FCGR2A	1	161475220	161493803	0.680	rs1801274	-6.79	rs12722986	 0.1968	-6.15	-4.951	442	34	enet	0.37	4.2e-11	 3.7227	1.97e-04

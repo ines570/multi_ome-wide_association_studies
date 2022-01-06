@@ -1,0 +1,5 @@
+PANEL	FILE	ID	CHR	P0	P1	HSQ	BEST.GWAS.ID	BEST.GWAS.Z	EQTL.ID	EQTL.R2	EQTL.Z	EQTL.GWAS.Z	NSNP	NWGT	MODEL	MODELCV.R2	MODELCV.PV	TWAS.Z	TWAS.P
+NA	/data/songy4/proteomics_196/output/weights_plasma_cardio_case//IGFBP3.wgt.RDat	IGFBP3	7	45951949	45961473	0.371	rs1525660	-3.26	rs1486169	 0.00670	-3.82	-0.106	418	21	enet	0.065	0.0077	 0.654	5.13e-01
+NA	/data/songy4/proteomics_196/output/weights_plasma_cardio_case//DDC.wgt.RDat	DDC	7	50526134	50633154	0.724	rs7778202	-3.44	rs17133853	-0.01078	 3.04	-1.031	559	27	lasso	-0.0046	0.45	 0.297	7.66e-01
+NA	/data/songy4/proteomics_196/output/weights_plasma_cardio_case//PON2.wgt.RDat	PON2	7	95034175	95064510	0.332	rs7778623	-4.76	rs6973380	 0.00399	-3.77	-4.189	475	25	enet	0.022	0.085	 4.511	6.46e-06
+NA	/data/songy4/proteomics_196/output/weights_plasma_cardio_case//PILRB.wgt.RDat	PILRB	7	99933737	99965356	0.397	rs11769700	-4.61	rs2405442	 0.42724	-6.37	 1.740	321	 1	top1	0.43	7.4e-13	-1.740	8.18e-02
