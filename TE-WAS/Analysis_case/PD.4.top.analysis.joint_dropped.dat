@@ -1,0 +1,9 @@
+FILE	ID	TWAS.Z	TWAS.P	COND.BETA	COND.BETA.SE	COND.Z	COND.P
+/data/songy4/tes/output/weights_case//ENST00000515182.1.wgt.RDat	ENST00000515182.1	-11	3.6e-26	-0.342	0.494	-0.69	4.9e-01
+/data/songy4/tes/output/weights_case//ENST00000509465.5.wgt.RDat	ENST00000509465.5	-11	6.9e-29	 0.430	0.170	 2.53	1.1e-02
+/data/songy4/tes/output/weights_case//ENST00000502829.1.wgt.RDat	ENST00000502829.1	-11	6.9e-29	-0.031	0.233	-0.14	8.9e-01
+/data/songy4/tes/output/weights_case//ENST00000247933.9.wgt.RDat	ENST00000247933.9	-11	6.9e-29	 0.227	0.071	 3.21	1.3e-03
+/data/songy4/tes/output/weights_case//ENST00000509948.5.wgt.RDat	ENST00000509948.5	-11	6.9e-29	-1.048	0.263	-3.99	6.6e-05
+/data/songy4/tes/output/weights_case//ENST00000502309.1.wgt.RDat	ENST00000502309.1	-11	6.3e-26	-0.112	0.480	-0.23	8.2e-01
+/data/songy4/tes/output/weights_case//ENST00000273814.8.wgt.RDat	ENST00000273814.8	-11	6.9e-29	 0.497	0.165	 3.01	2.6e-03
+/data/songy4/tes/output/weights_case//ENST00000652070.1.wgt.RDat	ENST00000652070.1	-11	6.9e-29	-0.472	0.165	-2.86	4.3e-03

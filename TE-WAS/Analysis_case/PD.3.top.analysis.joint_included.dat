@@ -1,0 +1,5 @@
+FILE	ID	TWAS.Z	TWAS.P	JOINT.BETA	JOINT.BETA.SE	JOINT.Z	JOINT.P
+/data/songy4/tes/output/weights_case//ENST00000429900.6.wgt.RDat	ENST00000429900.6	-6.4	1.3e-10	-6.4	1	-6.4	1.3e-10
+/data/songy4/tes/output/weights_case//ENST00000481607.1.wgt.RDat	ENST00000481607.1	 4.8	1.5e-06	 4.8	1	 4.8	1.5e-06
+/data/songy4/tes/output/weights_case//ENST00000473285.5.wgt.RDat	ENST00000473285.5	 6.2	4.9e-10	 6.2	1	 6.2	4.9e-10
+/data/songy4/tes/output/weights_case//ENST00000463197.1.wgt.RDat	ENST00000463197.1	-4.0	5.6e-05	-4.0	1	-4.0	5.6e-05
