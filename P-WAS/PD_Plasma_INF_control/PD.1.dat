@@ -1,0 +1,4 @@
+PANEL	FILE	ID	CHR	P0	P1	HSQ	BEST.GWAS.ID	BEST.GWAS.Z	EQTL.ID	EQTL.R2	EQTL.Z	EQTL.GWAS.Z	NSNP	NWGT	MODEL	MODELCV.R2	MODELCV.PV	TWAS.Z	TWAS.P
+NA	/data/songy4/proteomics_196/output/weights_plasma_inf_control//CD160.wgt.RDat	CD160	1	145695798	145715614	0.165	NA	   NA	NA	    NA	  NA	    NA	 69	 0	top1	0.098	0.0046	    NA	   NA
+NA	/data/songy4/proteomics_196/output/weights_plasma_inf_control//FCRL3.wgt.RDat	FCRL3	1	157644111	157670647	0.637	rs10796974	 3.48	rs3761959	0.2805	4.64	-1.160	549	 1	top1	0.28	1.2e-06	-1.160	0.246
+NA	/data/songy4/proteomics_196/output/weights_plasma_inf_control//FCRL2.wgt.RDat	FCRL2	1	157715523	157746922	0.288	rs4661142	-2.63	rs12064217	0.0604	3.78	-0.815	539	17	lasso	0.081	0.0093	-0.886	0.375
