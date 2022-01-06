@@ -1,0 +1,5 @@
+PANEL	FILE	ID	CHR	P0	P1	HSQ	BEST.GWAS.ID	BEST.GWAS.Z	EQTL.ID	EQTL.R2	EQTL.Z	EQTL.GWAS.Z	NSNP	NWGT	MODEL	MODELCV.R2	MODELCV.PV	TWAS.Z	TWAS.P
+NA	/data/songy4/proteomics_196/output/weights_csf_inf_control//TGFA.wgt.RDat	TGFA	2	70674412	70781325	0.508	NA	   NA	NA	    NA	   NA	   NA	  0	 0	enet	-0.0055	0.43	    NA	   NA
+NA	/data/songy4/proteomics_196/output/weights_csf_inf_control//IL18R1.wgt.RDat	IL18R1	2	102927989	103015218	0.634	rs4851516	-7.09	rs4399750	0.2856	-5.29	-1.93	592	30	enet	0.39	3.5e-09	 0.892	0.372
+NA	/data/songy4/proteomics_196/output/weights_csf_inf_control//IL1RN.wgt.RDat	IL1RN	2	113864791	113891593	0.385	rs895415	 2.58	rs1964463	0.0842	-3.96	-1.11	470	 1	top1	0.084	0.0085	 1.106	0.269
+NA	/data/songy4/proteomics_196/output/weights_csf_inf_control//LY75.wgt.RDat	LY75	2	160628362	160761260	0.245	rs9917155	 4.87	rs17231342	0.1353	 4.20	-1.11	510	 5	lasso	0.14	0.00068	-1.046	0.296
