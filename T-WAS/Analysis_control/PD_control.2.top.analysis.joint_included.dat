@@ -1,0 +1,11 @@
+FILE	ID	TWAS.Z	TWAS.P	JOINT.BETA	JOINT.BETA.SE	JOINT.Z	JOINT.P
+/data/songy4/twas/output/weights_control//ENSG00000173960.wgt.RDat	ENSG00000173960	-5.0	6.6e-07	-5.0	1	-5.0	6.6e-07
+/data/songy4/twas/output/weights_control//ENSG00000115216.wgt.RDat	ENSG00000115216	-3.9	9.0e-05	-3.9	1	-3.9	9.0e-05
+/data/songy4/twas/output/weights_control//ENSG00000119820.wgt.RDat	ENSG00000119820	-4.1	4.3e-05	-4.1	1	-4.1	4.3e-05
+/data/songy4/twas/output/weights_control//ENSG00000198380.wgt.RDat	ENSG00000198380	-4.2	2.4e-05	-4.2	1	-4.2	2.4e-05
+/data/songy4/twas/output/weights_control//ENSG00000172005.wgt.RDat	ENSG00000172005	-5.0	6.3e-07	-5.0	1	-5.0	6.3e-07
+/data/songy4/twas/output/weights_control//ENSG00000115590.wgt.RDat	ENSG00000115590	-6.2	5.8e-10	-6.2	1	-6.2	5.8e-10
+/data/songy4/twas/output/weights_control//ENSG00000152128.wgt.RDat	ENSG00000152128	 7.0	2.4e-12	 7.0	1	 7.0	2.4e-12
+/data/songy4/twas/output/weights_control//ENSG00000204406.wgt.RDat	ENSG00000204406	 4.1	3.8e-05	 4.1	1	 4.1	3.8e-05
+/data/songy4/twas/output/weights_control//ENSG00000138386.wgt.RDat	ENSG00000138386	 4.9	9.8e-07	 4.9	1	 4.9	9.8e-07
+/data/songy4/twas/output/weights_control//ENSG00000065802.wgt.RDat	ENSG00000065802	-3.9	8.8e-05	-3.9	1	-3.9	8.8e-05
