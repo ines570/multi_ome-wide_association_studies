@@ -1,0 +1,5 @@
+PANEL	FILE	ID	CHR	P0	P1	HSQ	BEST.GWAS.ID	BEST.GWAS.Z	EQTL.ID	EQTL.R2	EQTL.Z	EQTL.GWAS.Z	NSNP	NWGT	MODEL	MODELCV.R2	MODELCV.PV	TWAS.Z	TWAS.P
+NA	/data/songy4/proteomics_196/output/weights_plasma_neuro_case//TNXB.wgt.RDat	TNXB	6	32008931	32083111	0.509	rs660895	-9.87	rs4151659	0.0202	4.08	-0.91	206	13	lasso	0.14	0.00017	-0.728	0.4666
+NA	/data/songy4/proteomics_196/output/weights_plasma_neuro_case//MDGA1.wgt.RDat	MDGA1	6	37600284	37667082	0.474	rs3901254	-2.48	rs6938061	0.4691	6.59	-1.88	504	 1	top1	0.47	3.1e-14	-1.882	0.0598
+NA	/data/songy4/proteomics_196/output/weights_plasma_neuro_case//ADGRB3.wgt.RDat	ADGRB3	6	69345259	70099403	0.549	rs3799112	 4.79	rs1953613	0.4270	6.53	 0.65	729	10	lasso	0.46	7.3e-14	 0.643	0.5201
+NA	/data/songy4/proteomics_196/output/weights_plasma_neuro_case//CD109.wgt.RDat	CD109	6	74405508	74538040	0.348	rs4708134	 3.11	rs2164755	0.1491	4.17	-1.11	406	 1	top1	0.15	8.5e-05	-1.112	0.2660
